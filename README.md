@@ -1,4 +1,6 @@
-# Projeto do curso - Gerenciando Estados com o Recoil da formação Gerencie Aplicações React com Typescript.
+# Event-tracker
+
+Projeto feito com base no curso de React: gerenciando estado com Recoil da formação alura "Gerencie aplicações React com Typescript"
 
 # Getting Started with Create React App
 
